@@ -16,13 +16,17 @@
     "Directives"
   ],
   "author": {
-      "name": "Martin Folkeseth",
-      "email": "martin.folkeseth@gmail.com",
-      "url": "http://www.github.com/mfolkeseth"
+    "name": "Martin Folkeseth",
+    "email": "martin.folkeseth@gmail.com",
+    "url": "http://www.github.com/mfolkeseth"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mfolkeseth/angular-find-nearest/issues"
   },
-  "homepage": "https://github.com/mfolkeseth/angular-find-nearest#readme"
+  "homepage": "https://github.com/mfolkeseth/angular-find-nearest#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
 }
