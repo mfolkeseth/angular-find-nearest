@@ -2,6 +2,9 @@
 
 Finds marker closes to your position.
 
+![Bower version](https://img.shields.io/bower/v/angular-find-nearest.svg)
+[![npm version](https://img.shields.io/npm/v/angular-find-nearest.svg)](https://www.npmjs.com/package/angular-find-nearest)
+
 ## Usage
 ### Install
 `npm install angular-find-nearest`
