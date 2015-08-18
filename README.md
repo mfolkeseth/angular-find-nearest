@@ -8,10 +8,7 @@ Finds marker closes to your position.
 
 ### Dependencies
 Make sure to have Google Maps and AngularJS available on your site:
-`<script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap">
-    </script>`
-    
+`<script async defersrc="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap"></script>`
 `<script type="text/javascript" src="angular.js"></script>`
 
 ### Example
