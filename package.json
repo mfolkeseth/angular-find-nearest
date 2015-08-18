@@ -1,6 +1,6 @@
 {
   "name": "angular-find-nearest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find nearest marker from current position with Google Maps",
   "main": "findNearestDirective.js",
   "scripts": {
