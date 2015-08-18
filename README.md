@@ -69,9 +69,9 @@ Controller:
 
 
 
-```<button class="map-find-nearest"
-  bm-find-nearest position="myController.position" callback="myController.highlightStore(marker)" markers="myController.stores" marker-key="marker"
->Find nearest</button>```
+```
+<button class="map-find-nearest" bm-find-nearest position="myController.position" callback="myController.highlightStore(marker)" markers="myController.stores" marker-key="marker">Find nearest</button>
+```
 
 ### Parameters
 * position: google.maps.LatLng
