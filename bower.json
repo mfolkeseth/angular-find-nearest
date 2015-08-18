@@ -1,0 +1,26 @@
+{
+  "name": "angular-find-nearest",
+  "main": "angular-find-nearest.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/mfolkeseth/angular-find-nearest",
+  "description": "Find nearest marker from current position in Google Maps",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Angular",
+    "GoogleMaps",
+    "Directives"
+  ],
+  "authors": [
+    "Martin Folkeseth <martin.folkeseth@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
