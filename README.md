@@ -16,7 +16,8 @@ Make sure to have Google Maps and AngularJS available on your site:
 
 ### Example
 Controller: 
-`(function () {
+```
+(function () {
     'use strict';
 
     angular
@@ -62,14 +63,15 @@ Controller:
           vm.map.canvas.setCenter(store.marker.getPosition());
           vm.map.canvas.setZoom(11);
         }
-})();`
+})();
+```
 
 
 
 
-`<button class="map-find-nearest"
+```<button class="map-find-nearest"
   bm-find-nearest position="myController.position" callback="myController.highlightStore(marker)" markers="myController.stores" marker-key="marker"
->Find nearest</button>`
+>Find nearest</button>```
 
 ### Parameters
 * position: google.maps.LatLng
