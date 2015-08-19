@@ -1,6 +1,6 @@
 #angular-find-nearest
 
-Finds marker closes to your position.
+Finds Google maps marker closes to your position or any google.maps.LatLng.
 
 ![Bower version](https://img.shields.io/bower/v/angular-find-nearest.svg)
 [![npm version](https://img.shields.io/npm/v/angular-find-nearest.svg)](https://www.npmjs.com/package/angular-find-nearest)
@@ -14,7 +14,7 @@ Make sure to have Google Maps and AngularJS available on your site:
 ```
 <script async defersrc="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap&libraries=geometry"></script>
 ```
-NOTE: Important to load Google's geimetry library
+NOTE: Important to load Google's geometry library
 ```
 <script type="text/javascript" src="angular.js"></script>
 ```
