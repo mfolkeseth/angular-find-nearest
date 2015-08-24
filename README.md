@@ -85,3 +85,7 @@ Controller:
 * callback: Function to run in your controller
 
 Returns: The closest marker to the given position or complex object in cases where marker-key is used.
+
+#Contributions
+
+Wanna help? Great! Submit an issue or send me a pull request
