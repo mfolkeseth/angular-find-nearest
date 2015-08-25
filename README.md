@@ -88,4 +88,4 @@ Returns: The closest marker to the given position or complex object in cases whe
 
 #Contributions
 
-Wanna help? Great! Submit an issue or send me a pull request
+Wanna help? Great! Submit an issue or send me a pull request. Feedback is also, of course, welcome!
